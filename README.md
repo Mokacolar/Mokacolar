@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mokacolar
 - 👀 I’m interested in backend engineer's skills
-- 🌱 I’m currently learning Node.js && collaboration skill like gitHub
+- 🌱 I’m currently learning Java Spring Boot, Node.js && collaboration skill like gitHub
 - ✨ I will study Java Spring Boot Framework
 
 <!---
